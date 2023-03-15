@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y6Y4P6ZJ1B"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'G-Y6Y4P6ZJ1B');
+	</script>
+	<link rel="shortcut icon" type="image/x-icon" href="./image/favicon.ico" />
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="DN-style.css">
+	<script src="https://unpkg.co/gsap@3/dist/gsap.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<script src="script.js"></script>
+	<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
+	<meta property="og:image" content="./LogoLeLoi.jpg" />
+	<title>Đăng Nhập</title>
+</head>
+<body>
+
+	<div style="position: fixed; top: 95vh; left: 1vh">
+		<a href="//www.dmca.com/Protection/Status.aspx?ID=c9a68495-7895-400a-957a-911b7961a2f3" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca_protected_sml_120x.png?ID=c9a68495-7895-400a-957a-911b7961a2f3"  alt="DMCA.com Protection Status" /></a>  <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
+	</div>
+
+	<div class="center">
+		<h1>Đăng Nhập</h1>
+		<form method="post" action="KTDN.php">
+			<div class="txt_field">
+				<input type="text" name="user" required id="user">
+				<span></span>
+				<label>Tên đăng nhập</label>
+			</div>
+			<div class="txt_field">
+				<input type="password" name="pass" required id="pass">
+				<span></span>
+				<label>Mật khẩu</label>
+			</div>
+			<div class="pass" style="width: 45%; display: inline-block; float: left;"><a href="./qmk.html">Quên mật khẩu?</a></div>
+
+			<script>
+				function guest(){
+					document.getElementById('user').value = "Admin";
+					document.getElementById('pass').value = "Admin";
+				}
+			</script>
+
+			<div class="pass" style="width: 45%; display: inline-block; float: right; text-align: right;"><a onclick="guest()" title="Dùng cho kiểm duyệt website">Khách</a></div>
+			<!-- SUBMIT BUTTON -->
+			<div class="last" style="margin: 40px 0 30px 0;">
+				<div>
+					<button class="btn" value="Submit" id="btn-style" style="box-shadow:none">
+						<span>Đăng nhập</span>
+						<svg preserveAspectRatio="none" viewBox="0 0 132 45">
+							<g clip-path="url(#clip)" filter="url(#goo-big)">
+								<circle class="top-left" cx="49.5" cy="-0.5" r="26.5" />
+								<circle class="middle-bottom" cx="70.5" cy="40.5" r="26.5" />
+								<circle class="top-right" cx="104" cy="6.5" r="27" />
+								<circle class="right-bottom" cx="123.5" cy="36.5" r="26.5" />
+								<circle class="left-bottom" cx="16.5" cy="28" r="30" />
+							</g>
+							<defs>
+								<clipPath id="clip">
+									<rect width="132" height="45" rx="7" />
+								</clipPath>
+							</defs>
+						</svg>
+					</button>
+				</div>
+			</div>
+		</form>
+	</div>
+
+	<svg width="0" height="0">
+        <defs>
+            <filter id="goo" x="-50%" width="200%" y="-50%" height="200%" color-interpolation-filters="sRGB">
+                <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur" />
+                <feColorMatrix in="blur" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 21 -7" result="cm" />
+            </filter>
+            <filter id="goo-light" x="-50%" width="200%" y="-50%" height="200%" color-interpolation-filters="sRGB">
+                <feGaussianBlur in="SourceGraphic" stdDeviation="1.25" result="blur" />
+                <feColorMatrix in="blur" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 21 -7" result="cm" />
+            </filter>
+            <filter id="goo-big" x="-50%" width="200%" y="-50%" height="200%" color-interpolation-filters="sRGB">
+                <feGaussianBlur in="SourceGraphic" stdDeviation="7" result="blur" />
+                <feColorMatrix in="blur" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 21 -7" result="cm" />
+            </filter>
+        </defs>
+    </svg>
+
+</body>
+</html>
