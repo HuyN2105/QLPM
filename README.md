@@ -16,8 +16,8 @@
 
 #### **CONTACT:**
 <p align="center">
-  <a href="https://github.com/HuyN2105" target="_blank" rel="noopener noreferrer"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github" height="40" style="vertical-align:top; margin:10px"> </a>
-  <a href="https://www.facebook.com/HuyN.2105/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png" alt="Facebook" height="40" style="vertical-align:top; margin:10px"></a>
-  <a href="mailto:huyn.dev.2105@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="40" style="vertical-align:top; margin:10px"></a>
+  <a href="https://github.com/HuyN2105" target="_blank" rel="noopener noreferrer"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github" height="40" style="vertical-align:top; margin:20px"> </a>
+  <a href="https://www.facebook.com/HuyN.2105/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png" alt="Facebook" height="40" style="vertical-align:top; margin:20px"></a>
+  <a href="mailto:huyn.dev.2105@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="40" style="vertical-align:top; margin:20px"></a>
 </p>
 
