@@ -11,6 +11,7 @@
 
 #### **LICENSE:**
 [MIT](https://github.com/HuyN2105/QLPM/blob/main/LICENSE)
+#
 [DMCA](https://www.dmca.com/Protection/Status.aspx?ID=c9a68495-7895-400a-957a-911b7961a2f3&refurl=https://quanlyphongmay.com.vn/menu.php)
 
 #### **CONTACT:**
