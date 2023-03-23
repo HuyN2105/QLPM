@@ -1,6 +1,15 @@
-<p align="center" style="font-size: 25px; font-weight: bold">
-    HỆ THỐNG QUẢN LÝ PHÒNG MÁY VÀ LỊCH THỰC HÀNH
+<p align="center" >
+    <font size="16">
+    <b>
+        HỆ THỐNG QUẢN LÝ PHÒNG MÁY VÀ LỊCH THỰC HÀNH
+    </b>
+    </font>
 </p>
-<p align="center" style="font-size: 16px;  font-weight: bold">
-IMPORTANT: THIS PROJECT IS CREATED BY HUYN FULLNAME: NGUYỄN THANH HUY ( 21/05/2006 )
+<hr>
+<p align="center">
+    <font size="16">
+    <b>
+        IMPORTANT: THIS PROJECT IS CREATED BY HUYN FULLNAME: NGUYỄN THANH HUY ( 21/05/2006 )
+    </b>
+    </font>
 </p>
